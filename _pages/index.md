@@ -43,4 +43,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/assets/images/logo-150.png)
+![image](/220422_GitHubPages/assets/images/logo-150.png)
