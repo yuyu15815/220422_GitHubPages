@@ -1,12 +1,15 @@
 ---
-title: "ここにページのタイトル"
+title: "韓国のおすすめ場所"
 author: default
 permalink: /
 ---
 # おすすめショッピング
 ## In 홍대  
-### 착한구두 홍대점
-
+### 착한구두 홍대점　　
+¡[Image](https://images.app.goo.gl/MEr4qATmFVyQSffz8)  
+住所：서울 마포구 와우산로27길 56  
+営業時間：毎日12:00-22:00  
+홈베이지：[リンク](https://m.chaakan.co.kr/#rldshow)
 
 ---
 
